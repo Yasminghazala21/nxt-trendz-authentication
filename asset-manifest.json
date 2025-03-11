@@ -1,20 +1,20 @@
 {
   "files": {
     "main.css": "/nxt-trendz-authentication/static/css/main.ee614429.chunk.css",
-    "main.js": "/nxt-trendz-authentication/static/js/main.1b5ad2bb.chunk.js",
-    "main.js.map": "/nxt-trendz-authentication/static/js/main.1b5ad2bb.chunk.js.map",
+    "main.js": "/nxt-trendz-authentication/static/js/main.86584d9f.chunk.js",
+    "main.js.map": "/nxt-trendz-authentication/static/js/main.86584d9f.chunk.js.map",
     "runtime-main.js": "/nxt-trendz-authentication/static/js/runtime-main.d457beba.js",
     "runtime-main.js.map": "/nxt-trendz-authentication/static/js/runtime-main.d457beba.js.map",
-    "static/js/2.3731b3af.chunk.js": "/nxt-trendz-authentication/static/js/2.3731b3af.chunk.js",
-    "static/js/2.3731b3af.chunk.js.map": "/nxt-trendz-authentication/static/js/2.3731b3af.chunk.js.map",
+    "static/js/2.201d2ba0.chunk.js": "/nxt-trendz-authentication/static/js/2.201d2ba0.chunk.js",
+    "static/js/2.201d2ba0.chunk.js.map": "/nxt-trendz-authentication/static/js/2.201d2ba0.chunk.js.map",
     "index.html": "/nxt-trendz-authentication/index.html",
     "static/css/main.ee614429.chunk.css.map": "/nxt-trendz-authentication/static/css/main.ee614429.chunk.css.map",
-    "static/js/2.3731b3af.chunk.js.LICENSE.txt": "/nxt-trendz-authentication/static/js/2.3731b3af.chunk.js.LICENSE.txt"
+    "static/js/2.201d2ba0.chunk.js.LICENSE.txt": "/nxt-trendz-authentication/static/js/2.201d2ba0.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.d457beba.js",
-    "static/js/2.3731b3af.chunk.js",
+    "static/js/2.201d2ba0.chunk.js",
     "static/css/main.ee614429.chunk.css",
-    "static/js/main.1b5ad2bb.chunk.js"
+    "static/js/main.86584d9f.chunk.js"
   ]
 }
